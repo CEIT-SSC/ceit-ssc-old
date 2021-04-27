@@ -162,4 +162,3 @@
 Source codes inside this repository are all wordpress shortcuts. You may need the right plugins for using them.<br />
 Some other external jquery and js codes are added, these codes were used inside the website for features.
 </p>
-
